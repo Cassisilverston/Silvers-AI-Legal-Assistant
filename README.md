@@ -84,13 +84,13 @@ O usuário precisa:
 │   │   └── decisions (ADRs)
 │   └── diagrams
 ├── src
-│   ├── LegalTechCopilot.Domain
-│   ├── LegalTechCopilot.Application
-│   ├── LegalTechCopilot.Infrastructure
-│   └── LegalTechCopilot.Presentation
+│   ├── Silvers.AI.LegalAssistant.Application
+│   ├── Silvers.AI.LegalAssistant.Domain
+│   ├── Silvers.AI.LegalAssistant.Infrastructure
+│   └── Silvers.AI.LegalAssistant.Presentation
 ├── tests
-│   ├── LegalTechCopilot.Domain.Tests
-│   └── LegalTechCopilot.Application.Tests
+│   ├── Silvers.AI.LegalAssistant.Application.Tests
+│   └── Silvers.AI.LegalAssistant.Domain.Tests
 ├── README.md
 └── REQUIREMENTS.md
 ```
@@ -113,7 +113,7 @@ O usuário precisa:
 - Requisitos: .NET SDK, PostgreSQL
 - `dotnet restore`
 - `dotnet test`
-- `dotnet run --project src/LegalTechCopilot.Presentation`
+- `dotnet run --project src/Silvers.AI.LegalAssistant.Presentation`
 
 ---
 

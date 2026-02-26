@@ -1,0 +1,12 @@
+C:\DevSilverston\ProjetoDevJr\Silvers-AI-Legal-Assistant\src\Silvers.AI.LegalAssistant.Domain\bin\Debug\net10.0\Silvers.AI.LegalAssistant.Domain.deps.json
+C:\DevSilverston\ProjetoDevJr\Silvers-AI-Legal-Assistant\src\Silvers.AI.LegalAssistant.Domain\bin\Debug\net10.0\Silvers.AI.LegalAssistant.Domain.dll
+C:\DevSilverston\ProjetoDevJr\Silvers-AI-Legal-Assistant\src\Silvers.AI.LegalAssistant.Domain\bin\Debug\net10.0\Silvers.AI.LegalAssistant.Domain.pdb
+C:\DevSilverston\ProjetoDevJr\Silvers-AI-Legal-Assistant\src\Silvers.AI.LegalAssistant.Domain\obj\Debug\net10.0\Silvers.AI.LegalAssistant.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevSilverston\ProjetoDevJr\Silvers-AI-Legal-Assistant\src\Silvers.AI.LegalAssistant.Domain\obj\Debug\net10.0\Silvers.AI.LegalAssistant.Domain.AssemblyInfoInputs.cache
+C:\DevSilverston\ProjetoDevJr\Silvers-AI-Legal-Assistant\src\Silvers.AI.LegalAssistant.Domain\obj\Debug\net10.0\Silvers.AI.LegalAssistant.Domain.AssemblyInfo.cs
+C:\DevSilverston\ProjetoDevJr\Silvers-AI-Legal-Assistant\src\Silvers.AI.LegalAssistant.Domain\obj\Debug\net10.0\Silvers.AI.LegalAssistant.Domain.csproj.CoreCompileInputs.cache
+C:\DevSilverston\ProjetoDevJr\Silvers-AI-Legal-Assistant\src\Silvers.AI.LegalAssistant.Domain\obj\Debug\net10.0\Silvers.AI.LegalAssistant.Domain.sourcelink.json
+C:\DevSilverston\ProjetoDevJr\Silvers-AI-Legal-Assistant\src\Silvers.AI.LegalAssistant.Domain\obj\Debug\net10.0\Silvers.AI.LegalAssistant.Domain.dll
+C:\DevSilverston\ProjetoDevJr\Silvers-AI-Legal-Assistant\src\Silvers.AI.LegalAssistant.Domain\obj\Debug\net10.0\refint\Silvers.AI.LegalAssistant.Domain.dll
+C:\DevSilverston\ProjetoDevJr\Silvers-AI-Legal-Assistant\src\Silvers.AI.LegalAssistant.Domain\obj\Debug\net10.0\Silvers.AI.LegalAssistant.Domain.pdb
+C:\DevSilverston\ProjetoDevJr\Silvers-AI-Legal-Assistant\src\Silvers.AI.LegalAssistant.Domain\obj\Debug\net10.0\ref\Silvers.AI.LegalAssistant.Domain.dll
