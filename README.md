@@ -82,7 +82,8 @@ O usuário precisa:
 ├── docs
 │   ├── architecture
 │   │   └── decisions (ADRs)
-│   └── diagrams
+│   ├── diagrams
+│   └── REQUIREMENTS.md
 ├── src
 │   ├── Silvers.AI.LegalAssistant.Application
 │   ├── Silvers.AI.LegalAssistant.Domain
@@ -91,8 +92,7 @@ O usuário precisa:
 ├── tests
 │   ├── Silvers.AI.LegalAssistant.Application.Tests
 │   └── Silvers.AI.LegalAssistant.Domain.Tests
-├── README.md
-└── REQUIREMENTS.md
+└── README.md
 ```
 
 
