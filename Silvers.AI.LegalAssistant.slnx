@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Silvers.AI.LegalAssistant.Application/Silvers.AI.LegalAssistant.Application.csproj" />
+    <Project Path="src/Silvers.AI.LegalAssistant.Domain/Silvers.AI.LegalAssistant.Domain.csproj" />
+    <Project Path="src/Silvers.AI.LegalAssistant.Infrastructure/Silvers.AI.LegalAssistant.Infrastructure.csproj" />
+    <Project Path="src/Silvers.AI.LegalAssistant.Presentation/Silvers.AI.LegalAssistant.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Silvers.AI.LegalAssistant.Application.Tests/Silvers.AI.LegalAssistant.Application.Tests.csproj" />
+    <Project Path="tests/Silvers.AI.LegalAssistant.Domain.Tests/Silvers.AI.LegalAssistant.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
